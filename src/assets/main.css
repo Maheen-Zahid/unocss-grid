@@ -1,0 +1,12 @@
+
+:root {
+  --body-background: rgb(182, 176, 176);
+}
+
+body {
+  background-color: var(--body-background);
+}
+
+.invalid-input {
+  border-color: red;
+}
